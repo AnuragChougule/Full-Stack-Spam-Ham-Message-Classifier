@@ -189,10 +189,15 @@ pip install flask-cors
 
 ## 👨‍💻 Author
 
-* **Name**: Prashanth Uppar
+* **Name**: Anurag Chougule
 * **Institution**: KLE Tech Dr. MSSCET Belagavi
-* **Role**: Developer, ML Integrator
+* **Role**: Developer, Model Trainer
 
 ---
 
 Let me know if you want a version of this as a downloadable file, or help generating `spam_detection_train.py` if not already present.
+
+
+## Contact
+
+📫 For queries, reach out at: [anuragchougule010@gmail.com](mailto:anuragchougule010@gmail.com)
