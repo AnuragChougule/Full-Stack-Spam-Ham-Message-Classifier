@@ -200,4 +200,4 @@ Let me know if you want a version of this as a downloadable file, or help genera
 
 ## Contact
 
-📫 For queries, reach out at: [anuragchougule010@gmail.com](mailto:anuragchougule010@gmail.com)
+📫 For queries, reach out at: [anuragchougule010@gmail.com](mailto:anuragchougule0160@gmail.com)
